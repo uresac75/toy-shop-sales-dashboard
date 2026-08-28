@@ -1,0 +1,21 @@
+SupplierID,SupplierName,MaterialType,QualityRating
+SUP-01,Chennai Polymers Pvt Ltd,Plastic,4.6
+SUP-02,Ambattur Plastics Co,Plastic,4.1
+SUP-03,Hosur Moulding Works,Plastic,3.4
+SUP-04,Gujarat Petrochem Toys,Plastic,4.3
+SUP-05,Shenzhen MicroCircuits Ltd,Electronics,4.5
+SUP-06,Dragon Electronics Co,Electronics,2.4
+SUP-07,Bengaluru ChipWorks,Electronics,4.2
+SUP-08,Taiwan ToyTronics,Electronics,3.9
+SUP-09,Tirupur Textiles & Fabrics,Fabric,4.4
+SUP-10,Erode Cotton Mills,Fabric,4.0
+SUP-11,Surat Synthetic Fabrics,Fabric,3.1
+SUP-12,Karur Plush Materials,Fabric,4.5
+SUP-13,Kerala Timber Traders,Wood,4.3
+SUP-14,Assam Plywood Industries,Wood,3.6
+SUP-15,Mysore Wood Crafts,Wood,4.7
+SUP-16,Nilgiri Forest Products,Wood,3.8
+SUP-17,Sivakasi Print & Pack,Cardboard,4.6
+SUP-18,Chennai Corrugators,Cardboard,3.9
+SUP-19,Delhi Paper Boards,Cardboard,3.2
+SUP-20,Madurai Packaging Co,Cardboard,4.1

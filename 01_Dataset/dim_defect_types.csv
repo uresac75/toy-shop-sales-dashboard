@@ -1,0 +1,27 @@
+DefectID,DefectDescription,DefectCategory,Severity,RequiresScrap
+DEF-000,No Defect Found,None,None,No
+DEF-001,Paint smudge / colour bleed,Cosmetic,Low,No
+DEF-002,Surface scratch,Cosmetic,Low,No
+DEF-003,Misaligned decal or sticker,Cosmetic,Low,No
+DEF-004,Uneven paint finish,Cosmetic,Medium,No
+DEF-005,Discoloured plastic moulding,Cosmetic,Medium,No
+DEF-006,Cracked body shell,Structural,High,Yes
+DEF-007,Loose joint / limb detachment,Structural,Medium,No
+DEF-008,Warped plastic part,Structural,Medium,No
+DEF-009,Broken hinge mechanism,Structural,High,Yes
+DEF-010,Splintered wooden edge,Structural,High,Yes
+DEF-011,Seam stitching failure,Structural,Medium,No
+DEF-012,Battery compartment failure,Electronic,High,Yes
+DEF-013,Speaker no sound output,Electronic,Medium,No
+DEF-014,LED not functioning,Electronic,Low,No
+DEF-015,Circuit board short,Electronic,High,Yes
+DEF-016,Button unresponsive,Electronic,Medium,No
+DEF-017,Charging port defect,Electronic,High,Yes
+DEF-018,Box crush damage,Packaging,Low,No
+DEF-019,Missing instruction manual,Packaging,Low,No
+DEF-020,Incorrect label / barcode,Packaging,Medium,No
+DEF-021,Shrink-wrap tear,Packaging,Low,No
+DEF-022,Small parts choking hazard,Safety Hazard,Critical,Yes
+DEF-023,Sharp edge exposure,Safety Hazard,Critical,Yes
+DEF-024,Toxic paint lead content,Safety Hazard,Critical,Yes
+DEF-025,Battery overheating risk,Safety Hazard,Critical,Yes

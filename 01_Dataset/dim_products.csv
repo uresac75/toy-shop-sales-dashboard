@@ -1,0 +1,101 @@
+ProductID,ProductName,Category,TargetAgeGroup,ComplexityScore,StandardCost,PrimaryMaterial
+AF-001,Galaxy Ranger,Action Figures,0-2 yrs,6,264.83,Plastic
+AF-002,Jungle Commando,Action Figures,6-8 yrs,6,350.13,Plastic
+AF-003,Robo Warrior Pro,Action Figures,3-5 yrs,3,441.96,Plastic
+AF-004,Ninja Strike Pro,Action Figures,9-12 yrs,6,379.4,Plastic
+AF-005,Dino Hunter Mini,Action Figures,6-8 yrs,3,268.63,Plastic
+AF-006,Space Trooper Mini,Action Figures,6-8 yrs,4,425.83,Plastic
+AF-007,Cricket Legend XL,Action Figures,9-12 yrs,5,391.51,Plastic
+AF-008,Super Rakshak XL,Action Figures,6-8 yrs,4,194.99,Plastic
+AF-009,Mecha Titan Junior,Action Figures,0-2 yrs,5,141.06,Plastic
+AF-010,Desert Scout Junior,Action Figures,13+ yrs,6,328.45,Plastic
+AF-011,Galaxy Ranger Classic,Action Figures,0-2 yrs,6,236.99,Plastic
+AF-012,Jungle Commando Classic,Action Figures,0-2 yrs,6,414.73,Plastic
+AF-013,Robo Warrior Neo,Action Figures,9-12 yrs,6,184.23,Plastic
+AF-014,Ninja Strike Neo,Action Figures,3-5 yrs,4,134.46,Plastic
+AF-015,Dino Hunter Max,Action Figures,6-8 yrs,3,345.41,Plastic
+AF-016,Space Trooper Max,Action Figures,13+ yrs,5,439.28,Plastic
+AF-017,Cricket Legend Lite,Action Figures,6-8 yrs,4,242.25,Plastic
+AF-018,Super Rakshak Lite,Action Figures,0-2 yrs,4,182.53,Plastic
+AF-019,Mecha Titan 2.0,Action Figures,6-8 yrs,3,276.98,Plastic
+AF-020,Desert Scout 2.0,Action Figures,3-5 yrs,3,341.04,Plastic
+ET-021,Talking Parrot,Electronic Toys,13+ yrs,8,2156.99,Electronics
+ET-022,RC Racer,Electronic Toys,9-12 yrs,9,1090.35,Electronics
+ET-023,Learning Tablet Pro,Electronic Toys,9-12 yrs,10,2099.77,Electronics
+ET-024,Dance Robot Pro,Electronic Toys,13+ yrs,7,1041.07,Electronics
+ET-025,Laser Blaster Mini,Electronic Toys,3-5 yrs,9,736.49,Electronics
+ET-026,Musical Keyboard Mini,Electronic Toys,13+ yrs,6,465.09,Electronics
+ET-027,Smart Puppy XL,Electronic Toys,9-12 yrs,9,1812.94,Electronics
+ET-028,Drone Explorer XL,Electronic Toys,6-8 yrs,9,2050.49,Electronics
+ET-029,Karaoke Mic Junior,Electronic Toys,6-8 yrs,8,1615.92,Electronics
+ET-030,Coding Bot Junior,Electronic Toys,0-2 yrs,6,684.79,Electronics
+ET-031,Talking Parrot Classic,Electronic Toys,6-8 yrs,9,1415.75,Electronics
+ET-032,RC Racer Classic,Electronic Toys,13+ yrs,8,2018.25,Electronics
+ET-033,Learning Tablet Neo,Electronic Toys,6-8 yrs,9,1584.84,Electronics
+ET-034,Dance Robot Neo,Electronic Toys,0-2 yrs,8,1073.1,Electronics
+ET-035,Laser Blaster Max,Electronic Toys,9-12 yrs,6,1345.27,Electronics
+ET-036,Musical Keyboard Max,Electronic Toys,13+ yrs,7,1287.48,Electronics
+ET-037,Smart Puppy Lite,Electronic Toys,13+ yrs,10,929.58,Electronics
+ET-038,Drone Explorer Lite,Electronic Toys,13+ yrs,6,1026.84,Electronics
+ET-039,Karaoke Mic 2.0,Electronic Toys,13+ yrs,7,1806.93,Electronics
+ET-040,Coding Bot 2.0,Electronic Toys,0-2 yrs,8,2056.99,Electronics
+WB-041,Alphabet Tower,Wooden Blocks,13+ yrs,2,332.87,Wood
+WB-042,Rainbow Stacker,Wooden Blocks,6-8 yrs,3,225.14,Wood
+WB-043,City Builder Pro,Wooden Blocks,3-5 yrs,1,190.52,Wood
+WB-044,Temple Blocks Pro,Wooden Blocks,9-12 yrs,3,357.84,Wood
+WB-045,Number Train Mini,Wooden Blocks,9-12 yrs,1,375.47,Wood
+WB-046,Shape Sorter Mini,Wooden Blocks,13+ yrs,1,463.34,Wood
+WB-047,Animal Puzzle XL,Wooden Blocks,6-8 yrs,2,321.46,Wood
+WB-048,Bridge Kit XL,Wooden Blocks,3-5 yrs,1,433.63,Wood
+WB-049,Castle Set Junior,Wooden Blocks,9-12 yrs,2,189.44,Wood
+WB-050,Geo Blocks Junior,Wooden Blocks,3-5 yrs,1,582.85,Wood
+WB-051,Alphabet Tower Classic,Wooden Blocks,3-5 yrs,3,464.87,Wood
+WB-052,Rainbow Stacker Classic,Wooden Blocks,6-8 yrs,1,586.13,Wood
+WB-053,City Builder Neo,Wooden Blocks,3-5 yrs,3,472.6,Wood
+WB-054,Temple Blocks Neo,Wooden Blocks,9-12 yrs,2,272.51,Wood
+WB-055,Number Train Max,Wooden Blocks,0-2 yrs,1,556.17,Wood
+WB-056,Shape Sorter Max,Wooden Blocks,0-2 yrs,2,241.06,Wood
+WB-057,Animal Puzzle Lite,Wooden Blocks,9-12 yrs,1,410.65,Wood
+WB-058,Bridge Kit Lite,Wooden Blocks,6-8 yrs,1,535.48,Wood
+WB-059,Castle Set 2.0,Wooden Blocks,0-2 yrs,3,473.76,Wood
+WB-060,Geo Blocks 2.0,Wooden Blocks,9-12 yrs,2,432.29,Wood
+PT-061,Cuddly Elephant,Plush Toys,0-2 yrs,3,392.43,Fabric
+PT-062,Bengal Tiger Cub,Plush Toys,9-12 yrs,2,287.11,Fabric
+PT-063,Sleepy Panda Pro,Plush Toys,9-12 yrs,2,322.3,Fabric
+PT-064,Peacock Pal Pro,Plush Toys,0-2 yrs,2,165.04,Fabric
+PT-065,Teddy Classic Mini,Plush Toys,9-12 yrs,2,364.44,Fabric
+PT-066,Unicorn Dream Mini,Plush Toys,9-12 yrs,2,516.3,Fabric
+PT-067,Baby Dino XL,Plush Toys,13+ yrs,3,256.09,Fabric
+PT-068,Monkey Mischief XL,Plush Toys,9-12 yrs,3,110.26,Fabric
+PT-069,Polar Bear Hug Junior,Plush Toys,0-2 yrs,4,317.04,Fabric
+PT-070,Bunny Bliss Junior,Plush Toys,6-8 yrs,4,137.23,Fabric
+PT-071,Cuddly Elephant Classic,Plush Toys,3-5 yrs,3,320.82,Fabric
+PT-072,Bengal Tiger Cub Classic,Plush Toys,6-8 yrs,4,357.28,Fabric
+PT-073,Sleepy Panda Neo,Plush Toys,6-8 yrs,3,220.14,Fabric
+PT-074,Peacock Pal Neo,Plush Toys,13+ yrs,2,334.3,Fabric
+PT-075,Teddy Classic Max,Plush Toys,13+ yrs,3,109.73,Fabric
+PT-076,Unicorn Dream Max,Plush Toys,3-5 yrs,4,503.27,Fabric
+PT-077,Baby Dino Lite,Plush Toys,6-8 yrs,2,349.32,Fabric
+PT-078,Monkey Mischief Lite,Plush Toys,3-5 yrs,2,402.51,Fabric
+PT-079,Polar Bear Hug 2.0,Plush Toys,0-2 yrs,2,396.74,Fabric
+PT-080,Bunny Bliss 2.0,Plush Toys,9-12 yrs,4,445.89,Fabric
+BG-081,Snakes & Ladders Deluxe,Board Games,3-5 yrs,3,841.21,Cardboard
+BG-082,Ludo Champion,Board Games,13+ yrs,4,226.19,Cardboard
+BG-083,Trade Tycoon Pro,Board Games,0-2 yrs,5,459.65,Cardboard
+BG-084,Word Wizard Pro,Board Games,3-5 yrs,7,765.78,Cardboard
+BG-085,Chess Master Mini,Board Games,13+ yrs,4,867.03,Cardboard
+BG-086,Carrom Junior Mini,Board Games,9-12 yrs,4,560.54,Cardboard
+BG-087,Quiz Quest XL,Board Games,13+ yrs,4,855.23,Cardboard
+BG-088,Memory Match XL,Board Games,0-2 yrs,3,231.44,Cardboard
+BG-089,Strategy Siege Junior,Board Games,3-5 yrs,5,894.66,Cardboard
+BG-090,Treasure Trail Junior,Board Games,0-2 yrs,7,724.03,Cardboard
+BG-091,Snakes & Ladders Deluxe Classic,Board Games,13+ yrs,7,825.41,Cardboard
+BG-092,Ludo Champion Classic,Board Games,0-2 yrs,5,421.15,Cardboard
+BG-093,Trade Tycoon Neo,Board Games,0-2 yrs,6,663.16,Cardboard
+BG-094,Word Wizard Neo,Board Games,6-8 yrs,4,266.13,Cardboard
+BG-095,Chess Master Max,Board Games,9-12 yrs,6,383.72,Cardboard
+BG-096,Carrom Junior Max,Board Games,0-2 yrs,7,368.68,Cardboard
+BG-097,Quiz Quest Lite,Board Games,0-2 yrs,3,781.78,Cardboard
+BG-098,Memory Match Lite,Board Games,13+ yrs,3,325.49,Cardboard
+BG-099,Strategy Siege 2.0,Board Games,3-5 yrs,5,812.19,Cardboard
+BG-100,Treasure Trail 2.0,Board Games,0-2 yrs,3,417.23,Cardboard

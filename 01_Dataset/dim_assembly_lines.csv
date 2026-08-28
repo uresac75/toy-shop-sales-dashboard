@@ -1,0 +1,31 @@
+LineID,FactoryLocation,LineManager,EquipmentAgeYears,MaintenanceSchedule
+LINE-01,"Sriperumbudur, Tamil Nadu",R. Karthik,2.5,Quarterly
+LINE-02,"Sriperumbudur, Tamil Nadu",S. Priya,8.0,Bi-Annual
+LINE-03,"Sriperumbudur, Tamil Nadu",V. Aravind,7.2,Quarterly
+LINE-04,"Sriperumbudur, Tamil Nadu",M. Divya,9.8,Monthly
+LINE-05,"Sriperumbudur, Tamil Nadu",K. Saravanan,2.5,Quarterly
+LINE-06,"Sriperumbudur, Tamil Nadu",P. Keerthana,6.5,Monthly
+LINE-07,"Sriperumbudur, Tamil Nadu",A. Vignesh,5.8,Quarterly
+LINE-08,"Sriperumbudur, Tamil Nadu",D. Harini,5.2,Quarterly
+LINE-09,"Hosur, Tamil Nadu",N. Praveen,10.4,Monthly
+LINE-10,"Hosur, Tamil Nadu",G. Gayathri,14.3,Bi-Annual
+LINE-11,"Hosur, Tamil Nadu",S. Dinesh,7.5,Quarterly
+LINE-12,"Hosur, Tamil Nadu",L. Swetha,8.3,Bi-Annual
+LINE-13,"Hosur, Tamil Nadu",T. Hariharan,10.0,Bi-Annual
+LINE-14,"Hosur, Tamil Nadu",B. Nithya,8.2,Quarterly
+LINE-15,"Hosur, Tamil Nadu",C. Naveen,4.7,Quarterly
+LINE-16,"Coimbatore, Tamil Nadu",J. Deepika,3.4,Quarterly
+LINE-17,"Coimbatore, Tamil Nadu",R. Mohan,13.0,Monthly
+LINE-18,"Coimbatore, Tamil Nadu",S. Anand,9.4,Monthly
+LINE-19,"Coimbatore, Tamil Nadu",V. Lakshmi,11.0,Monthly
+LINE-20,"Coimbatore, Tamil Nadu",K. Ramesh,14.1,Monthly
+LINE-21,"Coimbatore, Tamil Nadu",P. Suresh,14.4,Bi-Annual
+LINE-22,"Noida, Uttar Pradesh",M. Kavya,9.1,Bi-Annual
+LINE-23,"Noida, Uttar Pradesh",A. Bala,12.0,Bi-Annual
+LINE-24,"Noida, Uttar Pradesh",D. Meena,4.2,Quarterly
+LINE-25,"Noida, Uttar Pradesh",N. Ganesh,1.9,Quarterly
+LINE-26,"Noida, Uttar Pradesh",G. Revathi,3.0,Quarterly
+LINE-27,"Sri City, Andhra Pradesh",S. Kumar,8.8,Quarterly
+LINE-28,"Sri City, Andhra Pradesh",L. Janani,8.1,Bi-Annual
+LINE-29,"Sri City, Andhra Pradesh",T. Rajesh,12.1,Quarterly
+LINE-30,"Sri City, Andhra Pradesh",B. Sandhya,9.2,Bi-Annual
