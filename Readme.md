@@ -42,6 +42,8 @@ Scrap cost, standard cost, rework hours, and financial performance.
  Total Factories
 
  📊 Dashboard Preview
+ Executive Overview
+![Executive Overview](Overview.png)
 
 ![Product Analysis](screenshots/product-analysis.png)
 
